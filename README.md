@@ -11,10 +11,7 @@
 
 <p>Built a Multi-Class classification model to find the relation between features of a mobile phone(RAM, Internal Memory etc) and its selling price. Model will predict the price range indicating how high the price is.</p>
 
-<h2> :floppy_disk: Project Files Description</h2>
 
-
-<p>This Project includes 2 executable files, 1 text files ,1 h5 file as well as 1 directories as follows:</p>
 
 
 <h4>Source Directories:</h4>
@@ -47,12 +44,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :clipboard: Execution Instruction</h2>
-<p>The order of execution of the program files is as follows:</p>
 
-
-<p><b>1) final_notebook_mobile_price_range_prediction_Apoorva_KR.ipynb</b></p>
-<p> This file must be executed, to define all the functions and variables required for classification operations which leads to the production of the model.h5 file. and to evaluate the model performance on unseen data
 
 
 
