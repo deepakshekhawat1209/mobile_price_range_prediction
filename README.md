@@ -15,19 +15,7 @@
 
 
 <p>This Project includes 2 executable files, 1 text files ,1 h5 file as well as 1 directories as follows:</p>
-<h4>Executable Files:</h4>
-<ul>
-  
-  <li><b>mobile_price_range_prediction_Apoorva_KR.ipynb</b> - Includes all functions required for classification operations  and generates the model.h5 file after execution.</li>
-  <li><b>final_notebook_mobile_price_range_prediction_Apoorva_KR.ipynb</b> -  after execution, evaluation is done on the unseen data as in confusion_matrix.txt.</li>
-</ul>
 
-<h4>Output Files:</h4>
-<ul>
-  <li><b>model.h5</b> - Model contains information about the predictions of the train set, such as 0(low),high(1),very high(2).</li>
-  <li><b>confusion_matrix.txt</b> - Contains information about the classified emotions of the test set.</li>
-  
-</ul>
 
 <h4>Source Directories:</h4>
 <ul>
@@ -74,17 +62,6 @@
  
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- CREDITS -->
-<h2 id="credits"> :scroll: Credits</h2>
-
-< Apoorva KR > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
-
-<p> <i> Contact me for Data Science Project Collaborations</i></p>
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-r-gowda/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apoorvaKR12695)
 
 
 
